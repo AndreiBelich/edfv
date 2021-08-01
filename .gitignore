@@ -2,7 +2,6 @@
 !.gitignore
 .vscode/
 .idea/
-client/node_modules/
-server/node_modules/
-server/public/
-server/sequelize-*.json
+*/node_modules/
+*/public/
+*/sequelize-*.json
