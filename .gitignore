@@ -1,7 +1,5 @@
-.*
-!.gitignore
+
 .vscode/
 .idea/
-node_modules/
-public/
-/server/sequelize-*.json
+*/node_modules/
+
